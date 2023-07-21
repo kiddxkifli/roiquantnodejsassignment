@@ -6,6 +6,7 @@ AUTHOR : MUHAMMAD KAMAL HAJI KIFLI
 
 Introduction : This project is an interview assignment test for the vacant positions at ROIQUANT. It is designed for the evaluation for candidates' programming skills, problem-solving abilities, and familiarity with APIs and Node.js according to the instructions given by the Company.
 
+NOTE TO EVALUATOR : This project using Google Translate API on Basic Plan, which means it is on 500 characters limit only. Please do not spam sentences more than the limit given. 
 
 Requirements
 Node.js: This program requires Node.js to be installed on your machine to run the translation logic and make API calls.
@@ -34,6 +35,6 @@ Usage
 3. Open your terminal or command prompt and navigate to the folder containing app.js.
 4. Run the program using the following command:
 
-node app.js
+     node app.js
 
 5. The program will display the ASCII banner and prompt you to enter an English sentence for translation. Follow the prompts and continue with translations or exit as desired.
