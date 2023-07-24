@@ -20,7 +20,7 @@ function displayBanner() {
 const axiosOptions = {
   headers: {
     'content-type': 'application/x-www-form-urlencoded',
-    'X-RapidAPI-Key': '7703251ae1msh3e09392c5060052p1f1d16jsnc673c0ce341e',
+    'X-RapidAPI-Key': '68ab79a5d0msh391d736bf3b9ca2p12cbd0jsn9679c8ca2be5',
     'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
   },
 };
